@@ -1,5 +1,5 @@
 #!/bin/bash
 
 sudo apt-get update
-sudo apt-get install slS
+sudo apt-get install sl
 
